@@ -1,0 +1,49 @@
+_repo: Free-Air_26732
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lewis, Sinclair
+    alias: Lewis, Harry Sinclair
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '278'
+    url: http://www.gutenberg.org/2009/agents/278
+    wikipedia: http://en.wikipedia.org/wiki/Sinclair_Lewis
+description: "Free-to-air (FTA) are television (TV) and radio services broadcast in\
+  \ clear (unencrypted) form, allowing any person with the appropriate receiving equipment\
+  \ to receive the signal and view or listen to the content without requiring a subscription,\
+  \ other ongoing cost or one-off fee (e.g. Pay-per-view). In the traditional sense,\
+  \ this is carried on terrestrial radio signals and received with an antenna.\nFTA\
+  \ also refers to channels and broadcasters providing content for which no subscription\
+  \ is expected, even though they may be delivered to the viewer/listener by another\
+  \ carrier for which a subscription is required, e.g. cable, satellite or the Internet.\
+  \ These carriers may be mandated (or opt) in some geographies to deliver FTA channels\
+  \ even if a premium subscription is not present (providing the necessary equipment\
+  \ is still available), especially where FTA channels are expected to be used for\
+  \ emergency broadcasts, similar to the 112 emergency service provided by mobile\
+  \ phone operators and manufacturers.\nFree-to-view (FTV) is, generally, available\
+  \ without subscription but is digitally encoded and may be restricted geographically.\n\
+  Free-to-air is often used for international broadcasting, making it something of\
+  \ a video equivalent to shortwave radio.\nMost FTA retailers list free to air channel\
+  \ guides and content available in North America for free to air use.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2008-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26732'
+  lccn: '28017941'
+  wikidata: Q5499735
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Women automobile drivers -- Fiction'
+title: Free Air
+url: http://www.gutenberg.org/ebooks/26732
+wikipedia:
+- https://en.wikipedia.org/wiki/Free_Air
