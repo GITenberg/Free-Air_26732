@@ -30,6 +30,8 @@ description: "Free-to-air (FTA) are television (TV) and radio services broadcast
   \ a video equivalent to shortwave radio.\nMost FTA retailers list free to air channel\
   \ guides and content available in North America for free to air use.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26732#Free-Air
 gutenberg_issued: '2008-09-30'
 gutenberg_type: Text
 identifiers:
